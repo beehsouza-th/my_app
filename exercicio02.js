@@ -12,4 +12,5 @@ function converteParaNumero(string){
 }   catch(error){
     console.log ("ocorreu um erro" , error.massage);
 }
+
   
